@@ -1,4 +1,4 @@
-profile: dev分支
+env: dev
 eureka:
   client:
     service-url:
