@@ -21,3 +21,7 @@ server:
 PRODUCT:
     ribbon: 
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
+person:
+    id: 111
+    name: gzyg
+    address: 大同市
