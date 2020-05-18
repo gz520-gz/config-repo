@@ -22,6 +22,6 @@ PRODUCT:
     ribbon: 
     NFLoadBalancerRuleClassName: com.netflix.loadbalancer.RandomRule
 person:
-    id: 111
-    name: gzyg
-    address: 大同市
+    id: 222
+    name: gzygggg
+    address: 大同市pingyaoshi
