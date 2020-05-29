@@ -1,0 +1,19 @@
+# 配置数据库
+spring:
+  datasource:
+    username: root
+    password: 123456
+    url: jdbc:mysql:///pm110u4mtwm?serverTimezone=UTC
+    driver-class-name: com.mysql.jdbc.Driver
+  redis:
+    host: 192.168.8.207
+    port: 6379
+  rabbitmq:
+    host: 192.168.8.207
+    password: guest
+    username: guest
+    port: 5672
+  application:
+    name: pm110user
+server:
+  port: 9999
